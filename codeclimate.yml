@@ -1,4 +1,6 @@
 engines:
+  fixme:
+    enabled: true
   gofmt:
     enabled: true
   golint:
